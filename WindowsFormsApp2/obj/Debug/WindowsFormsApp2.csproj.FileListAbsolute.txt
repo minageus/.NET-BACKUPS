@@ -1,0 +1,36 @@
+C:\Users\dminagias\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\dminagias\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\dminagias\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\dminagias\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\dminagias\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\dminagias\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\dminagias\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\dminagias\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\dminagias\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\dminagias\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\dminagias\Desktop\.NET BACKUPS\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\dminagias\Desktop\.NET BACKUPS\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\dminagias\Desktop\.NET BACKUPS\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\dminagias\Desktop\.NET BACKUPS\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\dminagias\Desktop\.NET BACKUPS\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\dminagias\Desktop\.NET BACKUPS\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\dminagias\Desktop\.NET BACKUPS\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\dminagias\Desktop\.NET BACKUPS\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\dminagias\Desktop\.NET BACKUPS\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\dminagias\Desktop\.NET BACKUPS\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\dminagias\Desktop\.NET BACKUPS\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\dminagias\Desktop\.NET BACKUPS\WindowsFormsApp2\bin\Debug\System.Data.SQLite.dll
+C:\Users\dminagias\Desktop\.NET BACKUPS\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\dminagias\Desktop\.NET BACKUPS\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dminagias\Desktop\.NET BACKUPS\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dminagias\Desktop\.NET BACKUPS\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\dminagias\Desktop\.NET BACKUPS\WindowsFormsApp2\bin\Debug\System.Data.SQLite.xml
+C:\Users\dminagias\Desktop\.NET BACKUPS\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\dminagias\Desktop\.NET BACKUPS\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dminagias\Desktop\.NET BACKUPS\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dminagias\Desktop\.NET BACKUPS\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\dminagias\Desktop\.NET BACKUPS\WindowsFormsApp2\bin\Debug\Eagle.dll
+C:\Users\dminagias\Desktop\.NET BACKUPS\WindowsFormsApp2\bin\Debug\System.Data.SQLite.SEE.License.dll
+C:\Users\dminagias\Desktop\.NET BACKUPS\WindowsFormsApp2\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\dminagias\Desktop\.NET BACKUPS\WindowsFormsApp2\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\dminagias\Desktop\.NET BACKUPS\WindowsFormsApp2\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
